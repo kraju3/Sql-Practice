@@ -1,0 +1,62 @@
+Connecting to the database
+Executing File
+ERROR! Supervisor not found in the employee relation inserting(eid,sid=NULL) to supervisor
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+ERROR! Supervisor not found in the employee relation inserting(eid,sid=NULL) to supervisor
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+Transaction two done
+ERROR! Supervisor not found in the employee relation inserting(eid,sid=NULL) to supervisor
+ERROR! Supervisor not found in the employee relation inserting(eid,sid=NULL) to supervisor
+Transaction 3 done
+Transaction 3 done
+Transaction 3 done
+Average Salary: 33590.9091----->done
+Name: { James, Jeff, Jane, Ramon, Gonzalez, Polo, Jake, David, John, Faith, Jesus, Raju, Sista, Syed, Ann, Jessica, Dory, Kawhi, } --> done
+Average Salary Trans6: 7139 --> done
+Name: { James, Jane, Ramon, Gonzalez, Polo, Jake, David, John, Faith, Jesus, Raju, Sista, Syed, Ann, Jessica, Dory, Kawhi, } --> done
+Name: { Me, } --> done
+Transaction 5 Error
+Error: No employee with that sid: Average salary --> 0
+Transaction 1 done
+Name: { } --> done
+Transaction 5 Error
+Transaction 1 error
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Name: { James, Jane, David, John, Faith, Jesus, Raju, Sista, Syed, Ann, Jessica, Dory, Kawhi, } --> done
+Transaction two done
+Name: { } --> done
+ERROR! Supervisor not found in the employee relation inserting(eid,sid=NULL) to supervisor
+Transaction 3 done
+Transaction 3 done
+Name: { Joseph, Boss, Me, } --> done
+Error: No employee with that sid: Average salary --> 0
+Average Salary Trans6: 52000 --> done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Transaction 1 done
+Name: { } --> done
+Error: No employee with that sid: Average salary --> 0
+Name: { } --> done
+Dropped both of the tables
